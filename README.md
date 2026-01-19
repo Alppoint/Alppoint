@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Alppoint 👋</h1>
+<h1 align="center">Hey! I'm Akshit Gaur 👋</h1>
 
 <p align="center">
   BCA (AI/ML) student • Web dev & C/C++ enthusiast
